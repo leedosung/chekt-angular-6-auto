@@ -1,0 +1,1 @@
+# chekt-angular-6-auto
